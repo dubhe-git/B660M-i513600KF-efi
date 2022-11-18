@@ -8,6 +8,7 @@
 | 内存:   | 32 GB （金百达 DDR4 3600MHz 16GB x 2)                        |
 | 显卡:   | AMD Radeon RX 580 Series (8 GB / AMD)                        |
 | 主板:   | 华硕 DIY-APE B66O REVOLUTION（英特尔 PCI标准主机 CPU 桥）    |
+| 主硬盘:   | Predator SSD GM7000 1TB (1024 GB / 固态硬盘）    |
 | 网卡:   | 瑞昱 Realtek Gaming 2.5GbE Family Controller / 华硕<br/>可） |
 | 声卡:   | 瑞昱 @英特尔 High Definition Audio 控制器                    |
 
